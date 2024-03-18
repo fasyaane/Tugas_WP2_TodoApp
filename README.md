@@ -1,4 +1,5 @@
-Tugas Latihan Todo App 
-
-Tugas  : Todo App
-Nama   : Triane Fasya Ramadhini
+# Tugas (TODO APP)
+<ul>
+  <li>Tugas: TODO APP</li>
+  <li>Nama: Triane Fasya Ramadhini</li>
+</ul>
